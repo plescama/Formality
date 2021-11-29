@@ -1,0 +1,53 @@
+Item	ExpSet	Condition	Sentence	Register	Skew	Legend 
+19	EEG	c	Der Angehörige visitierte das Neugeborene.	high	2	0 = towards informality
+19	EEG	d	Der Angehörige besuchte das Neugeborene.	low	2	1= neutral / no detectable skew
+20	EEG	c	Der Bildhauer ruinierte das Kunstwerk.	high	1	2 = towards formality
+20	EEG	d	Der Bildhauer trashte das Kunstwerk.	low	1	
+22	EEG	c	Der Fotograf plagte die Moderatorin.	high	0	
+22	EEG	c	Der Fotograf derangierte die Moderatorin.	high	1	
+22	EEG	d	Der Fotograf stalkte die Moderatorin.	low	0	
+43	EEG	c	Der Chemiker systematisierte die Proberöhrchen.	high	1	
+43	EEG	d	Der Chemiker verstaute die Proberöhrchen.	low	1	
+44	EEG	c	Der Hobbygärtner kultivierte die Wiese.	high	2	
+44	EEG	d	Der Hobbygärtner beackerte die Wiese.	low	2	
+45	EEG	c	Der Verlobte begehrte das Dessert. 	high	2	
+45	EEG	d	Der Verlobte wollte das Dessert.	low	2	
+3	ET	d	Der Sportlehrer kränkte den Wettläufer.	low	2	
+3	ET	c	Der Sportlehrer erzürnte den Wettläufer.	high	2	
+5	ET	d	Der Bischof attackierte den Herrscher.	low	1	
+5	ET	c	Der Bischof tadelte den Herrscher.	high	1	
+6	ET	d	Der Detektiv übertölpelte den Gauner.	low	1	
+6	ET	c	Der Detektiv düpierte den Gauner.	high	1	
+10	ET	d	Der Autobesitzer nervte den Mechaniker.	low	0	
+10	ET	c	Der Autobesitzer molestierte den Mechaniker.	high	0	
+11	ET	d	Die Verkäuferin bekiekte das Kind.	low	2	
+11	ET	c	Die Verkäuferin taxierte das Kind.	high	2	
+12	ET	d	Der Passant schimpfte den Obdachlosen.	low	1	
+12	ET	d	Der Passant beleidigte den Obdachlosen.	low	1	
+12	ET	c	Der Passant insultierte den Obdachlosen.	high	1	
+18	ET	d	Der Ausbilder betreute die Künstlerin.	low	1	
+18	ET	c	Der Ausbilder protegierte die Künstlerin.	high	1	
+19	ET	d	Der Priester beschwafelte den Hausarzt.	low	1	
+19	ET	c	Der Priester indoktrinierte den Hausarzt.	high	1	
+20	ET	d	Der Kaiser betüddelte den Herzog.	low	0	
+20	ET	c	Der Kaiser umhegte den Herzog.	high	0	
+21	ET	d	Der Landwirt wurmte den Obsthändler.	low	0	
+21	ET	c	Der Landwirt reizte den Obsthändler.	high	0	
+23	ET	d	Der Geiger rempelte den Sänger.	low	0	
+23	ET	c	Der Geiger striff den Sänger.	high	0	
+24	ET	d	Der Koch schrubbte die Küchentheke.	low	1	
+24	ET	c	Der Koch reinigte die Küchentheke.	high	1	
+28	ET	d	Der Bruder beschiss den Onkel.	low	0	
+28	ET	c	Der Bruder hinterging den Onkel.	high	0	
+29	ET	d	Der Wanderer stresste den Nachtportier.	low	0	
+29	ET	c	Der Wanderer malträtierte den Nachtportier.	high	0	
+30	ET	d	Der Verbrecher bemäkelte den Kontaktmann.	low	2	
+30	ET	c	Der Verbrecher monierte den Kontaktmann.	high	2	
+34	ET	d	Der Raufbold verhaute den Schwächeren.	low	1	
+34	ET	c	Der Raufbold bezwang den Schwächeren.	high	1	
+35	ET	d	Der Radprofi piesackte den Rennfahrer.	low	2	
+35	ET	c	Der Radprofi marterte den Rennfahrer.	high	2	
+36	ET	d	Der Immobilienbesitzer verarschte den Makler.	low	0	
+36	ET	c	Der Immobilienbesitzer betrog den Makler.	high	0	
+37	ET	d	Der Dekan verfluchte den Kanzler.	low	1	
+37	ET	c	Der Dekan verunglimpfte den Kanzler.	high	1	
